@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\ProjectLoot\DragonLoot\dragonloot\build\windows\x64\CMakeFiles\3a0d79cbf0c2fc82066cff58abf79fd0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FBC69AD7-8DCE-34F2-8E71-D429F12C30D8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

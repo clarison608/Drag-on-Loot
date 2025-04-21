@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Goblin",
+      "lootTable": [
+        { "name": "Gold Coin", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Rusty Dagger", "diceRoll": "1d1", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Orc",
+      "lootTable": [
+        { "name": "Silver Coin", "diceRoll": "2d4", "dropChance": 70 },
+        { "name": "Orcish Axe", "diceRoll": "1d1", "dropChance": 50 }
+      ]
+    }
+  ]

@@ -1,0 +1,15 @@
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/native_assets.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/assets/creatures.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

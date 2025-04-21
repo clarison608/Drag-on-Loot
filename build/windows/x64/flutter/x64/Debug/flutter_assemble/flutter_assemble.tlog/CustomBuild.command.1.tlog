@@ -1,0 +1,28 @@
+^D:\PROJECTLOOT\DRAGONLOOT\DRAGONLOOT\BUILD\WINDOWS\X64\CMAKEFILES\BFE8FE0191B9BB73F0279AFC0B3667BA\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\ProjectLoot\flutter PROJECT_DIR=D:\ProjectLoot\DragonLoot\dragonloot FLUTTER_ROOT=D:\ProjectLoot\flutter FLUTTER_EPHEMERAL_DIR=D:\ProjectLoot\DragonLoot\dragonloot\windows\flutter\ephemeral PROJECT_DIR=D:\ProjectLoot\DragonLoot\dragonloot FLUTTER_TARGET=D:\ProjectLoot\DragonLoot\dragonloot\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\ProjectLoot\DragonLoot\dragonloot\.dart_tool\package_config.json D:/ProjectLoot/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTLOOT\DRAGONLOOT\DRAGONLOOT\BUILD\WINDOWS\X64\CMAKEFILES\3A0D79CBF0C2FC82066CFF58ABF79FD0\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTLOOT\DRAGONLOOT\DRAGONLOOT\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/ProjectLoot/DragonLoot/dragonloot/windows -BD:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64 --check-stamp-file D:/ProjectLoot/DragonLoot/dragonloot/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
