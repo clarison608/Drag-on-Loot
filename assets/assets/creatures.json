@@ -1,0 +1,3735 @@
+[
+    {
+      "name": "Aarakocra (1/4)",
+      "lootTable": [
+        { "name": "Tattered Javelins", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Aarakocra Feathers", "diceRoll": "1d10", "dropChance": 100 }
+      ]
+    },
+    {
+      "name": "Aboleth (10)",
+      "lootTable": [
+        { "name": "Aboleth Tentacle", "diceRoll": "1d3", "dropChance": 90 },
+        { "name": "Vial of Aboleth Mucous", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Aboleth Tail", "diceRoll": "1d1", "dropChance": 90 },
+        { "name": "Aboleth Teeth", "diceRoll": "3d10", "dropChance": 100 },
+        { "name": "Aboleth hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Aboleth's bladder", "diceRoll": "1d1", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Angels - Deva (10)",
+      "lootTable": [
+        { "name": "Holy Mace", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Holy Feathers", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Blessed Gauntlets", "diceRoll": "1d1", "dropChance": 40 },
+        { "name": "Sacred Robe", "diceRoll": "3d10", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Angels - Planetar (16)",
+      "lootTable": [
+        { "name": "Holy Greatsword", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Consecrating Sash", "diceRoll": "1d1", "dropChance": 10 },
+        { "name": "Holy Feathers", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Blessed Gauntlets", "diceRoll": "1d1", "dropChance": 40 },
+        { "name": "Sacred Robe", "diceRoll": "3d10", "dropChance": 30 },
+        { "name": "Divine Tongue", "diceRoll": "1d1", "dropChance": 10 },
+        { "name": "Vial of Angelic Blood", "diceRoll": "1d1", "dropChance": 90 }
+      ]
+    },
+    {
+      "name": "Angels - Solar (21)",
+      "lootTable": [
+        { "name": "Holy Greatsword", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Consecrating Sash", "diceRoll": "1d1", "dropChance": 10 },
+        { "name": "Holy Feathers", "diceRoll": "5d4", "dropChance": 80 },
+        { "name": "Blessed Gauntlets", "diceRoll": "1d1", "dropChance": 40 },
+        { "name": "Sacred Robe", "diceRoll": "3d10", "dropChance": 30 },
+        { "name": "Divine Tongue", "diceRoll": "1d1", "dropChance": 10 },
+        { "name": "Vial of Angelic Blood", "diceRoll": "1d1", "dropChance": 90 },
+        { "name": "Holy Longbow", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "God's Pendant", "diceRoll": "1d1", "dropChance": 50 },
+        { "name": "Head of a Solar", "diceRoll": "1d1", "dropChance": 90 }
+      ]
+    },
+    {
+      "name": "Animated Objects - Animated Armor (1)",
+      "lootTable": [
+        { "name": "Tattered Set of Plate Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Animating Sigil", "diceRoll": "1d1", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Animated Objects - Flying Sword (1/4)",
+      "lootTable": [
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Animating Sigil", "diceRoll": "1d1", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Animated Objects - Rug of Smothering (2)",
+      "lootTable": [
+        { "name": "Tattered Carpet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Animating Sigil", "diceRoll": "1d1", "dropChance": 30 },
+        { "name": "Animate Carpet Patch", "diceRoll": "1d1", "dropChance": 60 }
+      ]
+    },
+    {
+      "name": "Ankheg (2)",
+      "lootTable": [
+        { "name": "Ankheg Claw", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Ankheg acid", "diceRoll": "1d1", "dropChance": 30 }
+      ]
+    },
+    {
+      "name": "Azer (2)",
+      "lootTable": [
+        { "name": "Tattered Warhammer", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gem (25 GP)", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Azer Heart", "diceRoll": "1d1", "dropChance": 50 }
+      ]
+    },
+    {
+      "name": "Banshee (4)",
+      "lootTable": [
+        { "name": "Art objects (50GP)", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pinch of Spirit Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Basilisk (3)",
+      "lootTable": [
+        { "name": "Basilisk Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Basilisk fang", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Basilisk Stomach", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Behir (11)",
+      "lootTable": [
+        { "name": "Behir Claws", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Behir Fang", "diceRoll": "2d1", "dropChance": 80 },
+        { "name": "Behir Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Behir Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Half-digested Corpses", "diceRoll": "1d3", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Beholders - Beholder (13)",
+      "lootTable": [
+        { "name": "Large Beholder Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Small Beholder Eyes", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Vial of Beholder Slime", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Beholder Eyestalks", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Armor (Choice)", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Lair: Treasure Hoard (11-16)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Beholders - Death Tyrant (14)",
+      "lootTable": [
+        { "name": "Large Death Tyrant Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Small Death Tyrant Eyes", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Vials of Ectoplasm", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Set of Armor (Choice)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Death Tyrant Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard (11-16)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Beholders - Spectator (3)",
+      "lootTable": [
+        { "name": "Large Spectator Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spectator Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spectator Tongue", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Blights - Needle Blight (1/4)",
+      "lootTable": [
+        { "name": "Gulthias flower", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Blights - Twig Blight (1/8)",
+      "lootTable": [
+        { "name": "Gulthias twig", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Blights - Vine Blight (1/2)",
+      "lootTable": [
+        { "name": "Gulthias seed", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bugbear (1)",
+      "lootTable": [
+        { "name": "Tattered Morningstar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Hide Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bugbear Ears", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bugbear Tusk", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bugbear Chief (3)",
+      "lootTable": [
+        { "name": "Tattered Chain Shirt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Strong Bugbear Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bugbear Ears", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bugbear Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bugbear Chief's Morningstar", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bulette (5)",
+      "lootTable": [
+        { "name": "Common Items (Choice)", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Bulette Head Plate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bulette Claws", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bulette Tendon", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bullywug (1/4)",
+      "lootTable": [
+        { "name": "Bullywug Bladder", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cambion (5)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Scale Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cambion Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Cambion Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cambion Tongue", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Carrion Crawler (2)",
+      "lootTable": [
+        { "name": "Crawler Tentacle", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Digested Corpse", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Centaur (2)",
+      "lootTable": [
+        { "name": "Tattered Pike", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Arrows", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Centaur Hooves", "diceRoll": "2d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Chimera (6)",
+      "lootTable": [
+        { "name": "Dragon Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lion Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Goat Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chimera Claws", "diceRoll": "1d8", "dropChance": 80 },
+        { "name": "In lair: 1 Treasure Hoard (challenge 5-10)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Chuul (4)",
+      "lootTable": [
+        { "name": "Chuul Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chuul Tentacle", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chuul Pincers", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cloaker (8)",
+      "lootTable": [
+        { "name": "Cloaker Wings", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Cloaker Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cloaker Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cloaker Claw", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Cloaker Blood", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cloaker Eyes", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cockatrice (1/2)",
+      "lootTable": [
+        { "name": "Vial of Cockatrice Venom", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Couatl (4)",
+      "lootTable": [
+        { "name": "Couatl Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Couatl Venom", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Couatl Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Holy Feathers", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Crawling Claw (0)",
+      "lootTable": [
+        { "name": "Desecrated Hand", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag (Choice)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Cyclops Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Cyclops Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cyclops (6)",
+      "lootTable": [
+        { "name": "Tattered Greatclub", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Darkmantle (1/2)",
+      "lootTable": [
+        { "name": "Darkmantle Tentacle", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Death Knight (17)",
+      "lootTable": [
+        { "name": "Tattered Shield (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Death Knight Longsword (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Unfulfilled Heart (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Charmed Ribs (Cursed)", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Death Knight Eyes (Cursed)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Death Knight Hand (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Undead Banner (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Belt of Undying (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Plumed Death Knight Helm (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Death Knight Bones (Cursed)", "diceRoll": "2d8", "dropChance": 80 },
+        { "name": "Midnight Cloak (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Black Plate armor (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Unholy Symbol (Cursed)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Undead Mount (Choice) (Cursed)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Death Knight Skull (Cursed)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demilich (18)",
+      "lootTable": [
+        { "name": "Demilich Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demilich Teeth", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Vials of Ectoplasm", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Pinches of Spirit Dust", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Demilich Eyes", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Phylactery", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Armor (Choice)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Weapon (Choice)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard (17-20)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Balor (19)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Cultists' Sigil", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Set of Abyssal Chains", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Motes of Unholy Fire", "diceRoll": "1d3", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Barlgura (5)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Barlgura Tusks", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Desiccated Trophy", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Chasme (6)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Proboscis", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chasme Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chasme Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Trophy of Torture", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Dretch (1/4)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Glabrezu (9)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Cultists' Sigil", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Glabrezu Claws", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Glabrezu Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Trophy of Temptation", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Goristro (17)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Cultists' Sigils", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Goristro Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Goristro teeth", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Goristro Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Goristro Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gilded Bracers", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Motes of Unholy Fire", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Hezrou (8)",
+      "lootTable": [
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hezrou Stench Glands", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Hezrou Spines", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Hezrou Claws", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Manes (1/8)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Marilith (16)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Cultists' Sigil", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demonic Longsword", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Marilith Bodice Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Snake Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Marilith Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gilded Bracers", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Motes of Unholy Fire", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Nalfeshnee (13)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Cultists' Sigil", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Hearts", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Nalfeshnee tusks", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Nalfeshnee claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Nalfeshnee Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gilded Bracers", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Motes of Unholy Fire", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Quasit (1)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Shadow Demon (4)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Shadow Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Vrock (6)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vrock Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Spores", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vrock Eyes", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Demons - Yochlol (10)",
+      "lootTable": [
+        { "name": "Demonic Amulet", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Foul Ichor", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Cultists' Sigil", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Yochlol Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Spider Legs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Ball of Demonweb", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mote of Unholy Fire", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Barbed Devil (5)",
+      "lootTable": [
+        { "name": "Devil Claws (Restricted)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Devil Eyes (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Barbed Devil Hide (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Barbed Devil Tail (restricted)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Bearded Devil (3)",
+      "lootTable": [
+        { "name": "Devil Eyes (restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bearded Devil Tendrils (Restricted)", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Bone Devil (9)",
+      "lootTable": [
+        { "name": "Vial of Bone Devil Poison (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bone Devil Hide (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bone Devil Wings (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bone Devil Skull (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Devil Claws (Restricted)", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Devil Eyes (Restricted)", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Chain Devil (8)",
+      "lootTable": [
+        { "name": "Chain Devil Chains (Restricted)", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Animate Hooks (Restricted)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Chain Devil Mask (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Devil Claws (Restricted)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Devil Eyes (Restricted)", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Erinyes (12)",
+      "lootTable": [
+        { "name": "Hellspit Longsword (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hellspit Longbow (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silvered Arrows (Restricted)", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Set of Erinyes Plate (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Erinyes Feathers (Restricted)", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Erinyes Tongue (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Devil Claws (Restricted)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Devil Eyes (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vials of Hellish Ichor", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Horned Devil (11)",
+      "lootTable": [
+        { "name": "Horned Devil Horn (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Horned Devil Wing (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Horned Devil Tail (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Devil Teeth (Restricted)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Devil Claws (Restricted)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Devil Eye (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vials of Hellish Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Ice Devil (14)",
+      "lootTable": [
+        { "name": "Ice Devil Carapace (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ice Devil Mandible (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Ice Devil Antennae (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Ice Devil Tail (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hellforged Bracers (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Devil Claw (Restricted)", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Devil Eye (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vials of Hellish Ichor", "diceRoll": "3d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Imp (1)",
+      "lootTable": [
+        { "name": "Imp Wings (Restricted)", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Lemure (0)",
+      "lootTable": [
+        { "name": "Vial of Hellish Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Pit Fiend (20)",
+      "lootTable": [
+        { "name": "Pit Fiend Head (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pit Fiend Horn (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Hellforged Mace (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hellforged Bracers (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pit Fiend Wing (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Pit Fiend Tail (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pit Fiend Hide (Restricted)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": " Devil Teeth (Restricted)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Devil Claw (Restricted)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vials of Hellish Ichor", "diceRoll": "4d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Devils - Spined Devil (2)",
+      "lootTable": [
+        { "name": "Devil Eyes", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Spined Devil Spines", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Allosaurus (2)",
+      "lootTable": [
+        { "name": "Dinosaur Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Dinosaur Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Ankylosaurus (3)",
+      "lootTable": [
+        { "name": "Dinosaur Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Knobbed Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Plesiosaurus (2)",
+      "lootTable": [
+        { "name": "Dinosaur Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Plesiosaurus Bladder", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Triceratops (5)",
+      "lootTable": [
+        { "name": "Dinosaur Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Triceratops Horns", "diceRoll": "1d3", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Pteranodon (1/4)",
+      "lootTable": [
+        { "name": "Tattered Pteranodon Wings", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dinosaur - Tyrannosaurus Rex (8)",
+      "lootTable": [
+        { "name": "Dinosaur Hide", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Dinosaur Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Tyrannosaurus Teeth", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Tyrannosaurus Skull", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Displacer Beast (3)",
+      "lootTable": [
+        { "name": "Displacer Beast Tentacles", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Displacer Beast Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Displacer Beast Paws", "diceRoll": "1d6", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Doppelganger (3)",
+      "lootTable": [
+        { "name": "Lump of Doppelganger Flesh", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Doppelganger Brain", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dracolich (+1 from dragon)",
+      "lootTable": [
+        { "name": "Phylactery", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Dracolich Bone", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Shadow Dragon (+3 from Dragon)",
+      "lootTable": [
+        { "name": "Mote of Shadow", "diceRoll": "1d3", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Black - Ancient Black Dragon (21)",
+      "lootTable": [
+        { "name": "Ancient Black Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Black Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Black Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Black Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Black Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Black Dragon Acid Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Ancient Black Dragon Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Evil Lizardfolk or Kobold Slaves", "diceRoll": "5d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Black Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Black - Adult Black Dragon (14)",
+      "lootTable": [
+        { "name": "Adult Black Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Black Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Black Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Black Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Black Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Adult Black Dragon Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Evil Lizardfolk or Kobold Slaves", "diceRoll": "3d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Black - Young Black Dragon (7)",
+      "lootTable": [
+        { "name": "Black Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Black Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Claws", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Black Dragon Fangs", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Black Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Black Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Evil Lizardfolk or Kobold Slaves", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Black - Black Dragon Wyrmling (2)",
+      "lootTable": [
+        { "name": "Black Dragon Claws", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Black Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Blue - Ancient Blue Dragon (23)",
+      "lootTable": [
+        { "name": "Ancient Blue Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Blue Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Claws", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Blue Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Blue Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Blue Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Blue Dragon Lightning Organ", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Ancient Blue Dragon Horn", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Eyes", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Artisan Slaves and various monstrous minions", "diceRoll": "5d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Blue Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Blue - Adult Blue Dragon (16)",
+      "lootTable": [
+        { "name": "Adult Blue Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Blue Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Blue Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Blue Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Blue Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Adult Blue Dragon Horn", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Eyes", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Artisan Slaves and various monstrous minions", "diceRoll": "3d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Blue - Young Blue Dragon (9)",
+      "lootTable": [
+        { "name": "Blue Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Blue Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Blue Dragon Fangs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Blue Dragon Fangs", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Blue Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blue Dragon Scales", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Blue Dragon Eyes", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Artisan Slaves and various monstrous minions", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Blue - Blue Dragon Wyrmling (3)",
+      "lootTable": [
+        { "name": "Blue Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Blue Dragon Scales", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Green - Ancient Green Dragon (22)",
+      "lootTable": [
+        { "name": "Ancient Green Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Green Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Green Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Green Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Green Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Green Dragon Poison Lung", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Green Dragon Spine", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Elven Slaves", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "In Lair: Various monstrous minions", "diceRoll": "4d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Green Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Green - Adult Green Dragon (15)",
+      "lootTable": [
+        { "name": "Adult Green Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Green Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Green Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Green Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Green Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Green Dragon Spines", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Elven Slaves", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Various monstrous minions", "diceRoll": "3d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Green - Young Green Dragon (8)",
+      "lootTable": [
+        { "name": "Green Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Green Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Green Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Green Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Green Dragon Spine", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Elven Slaves", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "In Lair: Various monstrous minions", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Green - Green Dragon Wyrmling (2)",
+      "lootTable": [
+        { "name": "Green Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Green Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Red - Ancient Red Dragon (24)",
+      "lootTable": [
+        { "name": "Ancient Red Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Red Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Red Dragon Hide", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Ancient Red Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Red Dragon Fire Sac", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Scales", "diceRoll": "4d10", "dropChance": 80 },
+        { "name": "Ancient Red Dragon Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 3 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid slaves", "diceRoll": "3d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Red Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Red - Adult Red Dragon (17)",
+      "lootTable": [
+        { "name": "Adult Red Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Red Dragon Fang", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Red Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Scale", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Adult Red Dragon Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid slave", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Red - Young Red Dragon (10)",
+      "lootTable": [
+        { "name": "Red Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": " Red Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Red Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Red Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Young Red Dragon Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid slave", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Red - Red Dragon Wyrmling (4)",
+      "lootTable": [
+        { "name": "Red Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Red Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid slave", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - White - Ancient White Dragon (20)",
+      "lootTable": [
+        { "name": "Ancient White Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "White Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "White Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of White Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient White Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient White Dragon Ice Gland", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Ancient White Dragon Frond", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Monster Corpse Trophies", "diceRoll": "5d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 White Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - White - Adult White Dragon (13)",
+      "lootTable": [
+        { "name": "Adult White Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "White Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "White Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of White Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "White Dragon Scale", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Adult White Dragon Frond", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Monster Corpse Trophies", "diceRoll": "3d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - White - Young White Dragon (6)",
+      "lootTable": [
+        { "name": "White Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "White Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "White Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of White Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "White Dragon Scale", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair. Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Monster Corpse Trophy", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - White - White Dragon Wyrmling (2)",
+      "lootTable": [
+        { "name": "White Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "White Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+      { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Brass - Ancient Brass Dragon (20)",
+      "lootTable": [
+        { "name": "Ancient Brass Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Brass Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Brass Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Brass Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Brass Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Brass Dragon Fire Sac", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Vial of Ancient Brass Dragon Sleep Salve", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Brass Dragon Frill", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Talkative Humanoid Servants", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Brass Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Brass - Adult Brass Dragon (13)",
+      "lootTable": [
+        { "name": "Adult Brass Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Brass Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Brass Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Brass Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Brass Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Adult Brass Dragon Frill", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Talkative Humanoid Servant", "diceRoll": "1d12", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Brass - Young Brass Dragon (6)",
+      "lootTable": [
+        { "name": "Brass Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Brass Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brass Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Brass Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Brass Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Talkative Humanoid Servant", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Brass - Wyrmling Brass Dragon (1)",
+      "lootTable": [
+        { "name": "Brass Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Bronze - Ancient Bronze Dragon (20)",
+      "lootTable": [
+        { "name": "Ancient Bronze Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bronze Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Bronze Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Bronze Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Bronze Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Bronze Dragon Lightning Organ", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Vial of Ancient Bronze Dragon Repulsion Salve", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Bronze Dragon Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Diplomatic Humanoid Servants", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Bronze Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Bronze - Adult Bronze Dragon (15)",
+      "lootTable": [
+        { "name": "Ancient Bronze Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bronze Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Bronze Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Bronze Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bronze Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+       { "name": "Ancient Bronze Dragon Horns", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Diplomatic Humanoid Servant", "diceRoll": "1d12", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Bronze - Young Bronze Dragon (8)",
+      "lootTable": [
+        { "name": "Bronze Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bronze Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Bronze Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Bronze Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bronze Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Young Bronze Dragon Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Diplomatic Humanoid Servant", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Bronze - Wyrmling Bronze Dragon (2)",
+      "lootTable": [
+        { "name": "Bronze Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Bronze Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Copper - Ancient Copper Dragon (21)",
+      "lootTable": [
+        { "name": "Ancient Copper Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Copper Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Copper Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Copper Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Copper Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Copper Dragon Acid Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Vial of Ancient Copper Dragon Slowing Salve", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Copper Dragon Frond", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Bardic Humanoid Servants", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Copper Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Copper - Adult Copper Dragon (14)",
+      "lootTable": [
+        { "name": "Ancient Copper Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Copper Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Copper Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Copper Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Copper Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Ancient Copper Dragon Frond", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Bardic Humanoid Servants", "diceRoll": "1d12", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Copper - Young Copper Dragon (7)",
+      "lootTable": [
+        { "name": "Copper Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Copper Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Copper Dragon Claws", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Copper Dragon Fangs", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Copper Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Bardic Humanoid Servants", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Copper - Wyrmling Copper Dragon (1)",
+      "lootTable": [
+        { "name": "Copper Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Gold - Ancient Gold Dragon (24)",
+      "lootTable": [
+        { "name": "Ancient Gold Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Gold Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Gold Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Gold Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Gold Dragon Acid Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Vial of Ancient Gold Dragon Slowing Salve", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Fins", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Gold Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Gold - Adult Gold Dragon (17)",
+      "lootTable": [
+        { "name": "Ancient Gold Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Gold Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strip of Gold Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Gold Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Fin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Gold - Young Gold Dragon (10)",
+      "lootTable": [
+        { "name": "Gold Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gold Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Gold Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Gold Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gold Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Gold Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Gold - Wyrmling Gold Dragon (3)",
+      "lootTable": [
+        { "name": "Gold Dragon Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Gold Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Silver - Ancient Silver Dragon (23)",
+      "lootTable": [
+        { "name": "Ancient Silver Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Silver Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Silver Dragon Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Ancient Silver Dragon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Silver Dragon Ice Gland", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Scales", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Vial of Ancient Silver Dragon Paralyzing Salve", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Fin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "In Lair: 2 Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Set of 7 Silver Dragon Eggs", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Servant from a single family", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Silver - Adult Silver Dragon (16)",
+      "lootTable": [
+        { "name": "Ancient Silver Dragon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Claws", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Silver Dragon Fangs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Strips of Silver Dragon Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Silver Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Fin", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Servant from a single family", "diceRoll": "1d12", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Silver - Young Silver Dragon (9)",
+      "lootTable": [
+        { "name": "Silver Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Silver Dragon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Silver Dragon Fang", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Strip of Silver Dragon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Silver Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Silver Dragon Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 11-16", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Humanoid Servant from a single family", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Silver - Wyrmling Silver Dragon (2)",
+      "lootTable": [
+        { "name": "Silver Dragon Claws", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Silver Dragon Scale", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 5-10", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon Turtle (17)",
+      "lootTable": [
+        { "name": "Dragon Turtle Claws", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Strips of Dragon Turtle Hide", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Dragon Turtle Shell Fragments", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Dragon Turtle Steam Organ", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Dragon Turtle Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "In Lair: Treasure Hoard 17+", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Drider (6)",
+      "lootTable": [
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Drider Legs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Drider Web Sac", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Drider Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Drider Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Drider Spinneret", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dryad (1)",
+      "lootTable": [
+        { "name": "Dryad Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Duergar (1)",
+      "lootTable": [
+        { "name": "Tattered War Pick", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Scale Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Duergar Finger", "diceRoll": "1d8", "dropChance": 80 },
+        { "name": "Duergar Head", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elemental - Air Elemental (5)",
+      "lootTable": [
+        { "name": "Motes of Elemental Air", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Wind", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gust of Warm Breeze", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elemental - Earth Elemental (5)",
+      "lootTable": [
+        { "name": "Motes of Elemental Earth", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elemental - Fire Elemental (5)",
+      "lootTable": [
+        { "name": "Motes of Elemental Fire", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Flame", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Puff of Smoke", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elemental - Water Elemental (5)",
+      "lootTable": [
+        { "name": "Motes of Elemental Water", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Waves", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Sea Foam", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elf - Drow (1/4)",
+      "lootTable": [
+        { "name": "Tattered Chain Shirt (rusts in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Poisoned Crossbow Bolt", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elf - Drow Elite Warrior (5)",
+      "lootTable": [
+        { "name": "Tattered Studded Leather (rusts in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield (rusts in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Poisoned Shortsword", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Poisoned Crossbow Bolts", "diceRoll": "3d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elf - Drow Mage (7)",
+      "lootTable": [
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Healing Potion", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Arcane Focus (decays in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Book (useless) (decay in sunlight)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Spellbook (1 random 3rd Level Spell) (decau in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Flask of Alchemist's Fire", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Minor Amulet of Lolth", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elf - Drow Priestess of Lolth (8)",
+      "lootTable": [
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Greater Healing Potion", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Holy Symbol of Lolth (decays in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Book (useless) (decay in sunlight)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Holy Book of Lolth (decays in sunlight)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Flask of Alchemist's Fire", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Major Amulet of Lolth", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Holy Robes of Lolth", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Empyrean (23)",
+      "lootTable": [
+        { "name": "Divine Maul", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Eye of the Empyrean", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Hand of the Empyrean", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bones of the Empyrean", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Chunks of Divine Flesh", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Titan's Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Locks of Divine Hair", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Immortal Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Divine Blood", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "God's Trinket", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "God's Pendant", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Blessed/Cursed Gauntlets", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sacred Robe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair. Humanoids who are faithful to the Empyrean's parent, or who serve an evil Empyrean out of fear", "diceRoll": "6d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ettercap (2)",
+      "lootTable": [
+        { "name": "Tattered Claws", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Web Sac", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Ettercap Poison", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ettin (4)",
+      "lootTable": [
+        { "name": "Tattered Battleaxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Morningstar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Item in a Giant's Bag", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Ettin Skull", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Giant's Toe", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Ettin Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Faerie - Red/Orange/Yellow (1)",
+      "lootTable": [
+        { "name": "Faerie Dragon Wing", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dragon - Faerie - Green/Blue/Indigo/Violet (2)",
+      "lootTable": [
+        { "name": "Faerie Dragon Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vial Faerie Dragon Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Flameskull (4)",
+      "lootTable": [
+        { "name": "1 Wizard Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Flameskull Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Mote of Green Flame", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Flumph (1/8)",
+      "lootTable": [
+        { "name": "Flumph Tentacles", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Fomorian (8)",
+      "lootTable": [
+        { "name": "Tattered Greatclub", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Fomorian Evil Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Fomorian Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Fomorian Finger's", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Fomorian Stomach Lining", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mutated Fomorian Limbs", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Fungi - Gas Spore (1/2)",
+      "lootTable": [
+        { "name": "Gas Spore Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Fungi - Shrieker (0)",
+      "lootTable": [
+        { "name": "Shrieker Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Fungi - Violet Fungus (1/4)",
+      "lootTable": [
+        { "name": "Violet Fungus Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Galeb Duhr (6)",
+      "lootTable": [
+        { "name": "Motes of Elemental Earth", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Resonating Rock", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gargoyle (2)",
+      "lootTable": [
+        { "name": "Mote of Evil Elemental Earth", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Gargoyle Wing", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Genie - Dao (11)",
+      "lootTable": [
+        { "name": "Maul of Elemental Earth (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Crown of the Dao (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bejeweled Tunic (Elemental Demise) (10,000 GP)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Genie - Djinni (11)",
+      "lootTable": [
+        { "name": "Scimitar of Elemental Air (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Crown of the Djinn (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bejeweled Scabbard (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gust of Warm Breeze", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Genie - Efreeti (11)",
+      "lootTable": [
+        { "name": "Scimitar of Elemental Fire (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Crown of the Efreet (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bejeweled Toga (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Puff of Smoke", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Genie - Marid (11)",
+      "lootTable": [
+        { "name": "Trident of Elemental Water (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Crown of the Marid (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bejeweled Vest (Elemental Demise)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Sea Foam", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ghost (4)",
+      "lootTable": [
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Pinch of Spirit Dust", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ghost's Trinket", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ghoul (1)",
+      "lootTable": [
+        { "name": "Ghoul Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ghast (2)",
+      "lootTable": [
+        { "name": "Ghast Claw", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Cloud Giant (9)",
+      "lootTable": [
+        { "name": "Giants Tattered Morningstar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Pouch of Gold (100 GP)", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Set of Fine Robes (1000 GP)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Cloud Giant Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Fire Giant (9)",
+      "lootTable": [
+        { "name": "Giants Tattered Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Giants Set of Smith's Tools", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Fire Giant Plate Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Fire Giant Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Frost Giant (8)",
+      "lootTable": [
+        { "name": "Giants Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Tattered Armor Pieces (Choice)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Frost Giant Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Hill Giant (5)",
+      "lootTable": [
+        { "name": "Giants Tattered Greatclub", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Hill Giant Ration", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Giant's Toe", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Hill Giant Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Stone Giant (7)",
+      "lootTable": [
+        { "name": "Giants Tattered Greatclub", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Artistic Stone (100 GP)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Stone Giant Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant - Storm Giant (13)",
+      "lootTable": [
+        { "name": "Giants Tattered Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Items in a Giant's Bag", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Pouch of Gold (100 GP)", "diceRoll": "4d6", "dropChance": 80 },
+        { "name": "Set of Fine Robes (1000 GP)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Storm Giant Scale Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Beard Hair of the Storm Giant", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Storm Giant Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Prophetic Totem", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gith - Githyanki Warrior (3)",
+      "lootTable": [
+        { "name": "Set of Astral Half Plate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Astral Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Githyanki Blood", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gith - Githyanki Knight (8)",
+      "lootTable": [
+        { "name": "Astral Silver Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Astral Plate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Githyanki Blood", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Heart of the Githyanki Knight", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Red Talisman of Tiamat", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mind Flayer Tentacle", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gith - Githzerai Monk (2)",
+      "lootTable": [
+        { "name": "Set of Githzerai Robes", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Githzerai Blood", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gith - Githzerai Zerth (6)",
+      "lootTable": [
+        { "name": "Set of Githzerai Robes", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Githzerai Blood", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Heart of the Githzerai Zerth", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mind Flayer Tentacle", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gnoll (1/2)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gnawed Trinket (Choice) (Useless)", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gnoll Pack Lord (2)",
+      "lootTable": [
+        { "name": "Tattered Glaive", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Chain Shirt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gnawed Trinket (Choice) (Useless)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Day of Rations", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demonic Jewelry", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gnoll Fang of Yeenoghu (4)",
+      "lootTable": [
+        { "name": "Gnawed Trinket (Choice) (Useless)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Day of Rations", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Demonic Jewelry", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gnome, Deep (Svirfneblin) (1/2)",
+      "lootTable": [
+        { "name": "Tattered War Pick", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Dart", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Chain Shirt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Deep Gnome Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Goblin (1/4)",
+      "lootTable": [
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shortbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Goblin Ear", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Goblin Boss (1)",
+      "lootTable": [
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Javelin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Goblin Ear", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Goblin Boss Head", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Golem - Clay (9)",
+      "lootTable": [
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Clumps of Golem Clay", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Motes of Elemental Earth", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Golem - Flesh (5)",
+      "lootTable": [
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mote of Elemental Earth", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Flesh Golem Limbs", "diceRoll": "2d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Golem - Iron (16)",
+      "lootTable": [
+        { "name": "Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Poison Gas Dispenser", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hunks of Golem Iron", "diceRoll": "6d4", "dropChance": 80 },
+        { "name": "Motes of Elemental Earth", "diceRoll": "6d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Golem - Stone (10)",
+      "lootTable": [
+        { "name": "Vial of Crystalline Powder", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Golem Stones", "diceRoll": "5d4", "dropChance": 80 },
+        { "name": "Motes of Elemental Earth", "diceRoll": "5d2", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gorgon (5)",
+      "lootTable": [
+        { "name": "Gorgon Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gorgon Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gorgon Stomach", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gorgon Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gorgon Petrifying Gas Sac", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Grell (3)",
+      "lootTable": [
+        { "name": "Grell Tentacles", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Grell Beak", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Grick (2)",
+      "lootTable": [
+        { "name": "Grick Tentacle", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Grick Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Grick Alpha (7)",
+      "lootTable": [
+        { "name": "Grick Tentacles", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Grick Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Grick Beak", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pieces of Adventuring Gear (Choice)", "diceRoll": "3d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Griffon (2)",
+      "lootTable": [
+        { "name": "Heart of a Griffon", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Griffon Feather", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Grimlock (1/4)",
+      "lootTable": [
+        { "name": "Tattered Spiked Bone Club", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Grimlock Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hag - Green (3)",
+      "lootTable": [
+        { "name": "Green Hag Finger", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Green Hag Nose", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Weird Magic Item (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Coven: 2 Additional Weird Magic Items", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hag - Night (5)",
+      "lootTable": [
+        { "name": "Night Hag Finger", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Soul Bag", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Night Hag Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Weird Magic Item (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Coven: 2 Additional Weird Magic Items", "diceRoll": "1d1", "dropChance": 80 }
+        
+      ]
+    },
+    {
+      "name": "Hag - Sea (2)",
+      "lootTable": [
+        { "name": "Sea Hag Finger", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Weird Magic Item (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Coven: 2 Additional Weird Magic Items", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Half-Dragon (+2 from NPC)",
+      "lootTable": [
+        { "name": "Dragon Scales", "diceRoll": "2d10", "dropChance": 80 }
+        
+      ]
+    },
+    {
+      "name": "Harpy (1)",
+      "lootTable": [
+        { "name": "Harpy Feather", "diceRoll": "1d6", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hell Hound (3)",
+      "lootTable": [
+        { "name": "Hell Hound Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hell Hound Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hell Hound Tooth", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Helmed Horror (4)",
+      "lootTable": [
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Helm of Horror", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Magical Plate Mail (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gauntlets of Horror", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hippogriff (1)",
+      "lootTable": [
+        { "name": "Hippogriff Pelt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hippogriff Feather", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hobgoblin (1/2)",
+      "lootTable": [
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Chain Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hobgoblin Ear", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hobgoblin Captain (3)",
+      "lootTable": [
+        { "name": "Tattered Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelins", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Half Plate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hobgoblin Ear", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Strong Hobgoblin Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hobgoblin Warlord (6)",
+      "lootTable": [
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Plate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hobgoblin Ear", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Strong Hobgoblin Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hobgoblin Warlord Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hobgoblin War Plan", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Homunculus (0)",
+      "lootTable": [
+        { "name": "Lumps of Homunculus Clay", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Mandrake Root", "diceRoll": "1d3", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hook Horror (3)",
+      "lootTable": [
+        { "name": "Horrible Hook", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Hook Horror Carapace", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hydra (8)",
+      "lootTable": [
+        { "name": "Hydra Heads", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Hydra Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Chunk of Hydra Flesh", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Hydra Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Intellect Devourer (2)",
+      "lootTable": [
+        { "name": "Chunk of Intellect Devourer Brain Matter", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Intellect Devourer Claws", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Invisible Stalker (6)",
+      "lootTable": [
+        { "name": "Motes of Elemental Air", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Heart of Wind", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gust of Warm Breeze", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Jackalwere (1/2)",
+      "lootTable": [
+        { "name": "Vial of Foul Ichor", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kenku (1/4)",
+      "lootTable": [
+        { "name": "Kenku Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kobold (1/8)",
+      "lootTable": [
+        { "name": "Kobold tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Winged Kobold (1/4)",
+      "lootTable": [
+        { "name": "Kobold wing", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kraken (23)",
+      "lootTable": [
+        { "name": "Kraken Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Kraken Teeth", "diceRoll": "4d10", "dropChance": 80 },
+        { "name": "Kraken Eyes", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Kraken Tentacle", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Kraken Heart", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Kraken Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Kraken Ink Sac", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Kraken Lightning Organ", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Kraken Hide", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Vials of Kraken Blood", "diceRoll": "2d8", "dropChance": 80 },
+        { "name": "Vials of Kraken Bile", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Kraken Ribcage", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kuo-Toa (1/4)",
+      "lootTable": [
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Net", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Kuo-Toa Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kuo-Toa Archpriest (6)",
+      "lootTable": [
+        { "name": "Spellcasting component pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Healing Potion", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Holy Symbol of Blibdoolpoolp", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Inane Objects", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Kuo-Toa Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Kuo-Toa Whip (1)",
+      "lootTable": [
+        { "name": "Tattered Pincer Staff", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Kuo-Toa Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lamia (4)",
+      "lootTable": [
+        { "name": "Tattered Dagger", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lamia Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lamia Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lich (21)",
+      "lootTable": [
+        { "name": "Lich Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Phylactery", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bones of the Lich", "diceRoll": "2d6", "dropChance": 80 },
+        { "name": "Left Hand of the Lich", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tome of Darkness (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting component pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Arcane Focus", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Uncommon Magic Item (Choice)", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Rare Magic Item (Choice)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Spellbook (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Skill Books (Choice)", "diceRoll": "4d4", "dropChance": 80 },
+        { "name": "Flask of Alchemist's Fire", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": " Ancient Map to a Now-Forgotten Archmage tower", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair: Set of Armor (Choice) (Magical)", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "In Lair: Weapon (Choice) (Magical)", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lizardfolk (1/2)",
+      "lootTable": [
+        { "name": "Tattered Heavy Club", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Tattered Spiked Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lizardfolk Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lizardfolk Shaman (2)",
+      "lootTable": [
+        { "name": "Tattered Shaman Staff", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lizardfolk Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lizardfolk Heart of Semuanya", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lizard King/Queen (4)",
+      "lootTable": [
+        { "name": "Tattered Trident", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Lizardfolk Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Crown of the Lizardfolk", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Snake Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lycanthrope - Werebear (5)",
+      "lootTable": [
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cursed Bear Fang", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Brown Bear Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bear Claws", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lycanthrope - Wereboar (4)",
+      "lootTable": [
+        { "name": "Tattered Maul", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cursed Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Boar Hide", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lycanthrope - Wererat (2)",
+      "lootTable": [
+        { "name": "Tattered Maul", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cursed Rat Fang", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Rat Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lycanthrope - Weretiger (4)",
+      "lootTable": [
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cursed Tiger Fang", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tiger Hide", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Tiger Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lycanthrope - Werewolf (3)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cursed Wolf Fang", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wolf Hide", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Magmin (1/2)",
+      "lootTable": [
+        { "name": "Lump of Elemental Magma", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Manticore (3)",
+      "lootTable": [
+        { "name": "Manticore Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Manticore Tail Spike", "diceRoll": "1d20", "dropChance": 80 },
+        { "name": "Manticore Tooth", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Medusa (6)",
+      "lootTable": [
+        { "name": "Tattered Shortsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Head of the Medusa", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Medusa Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Medusa Snakes", "diceRoll": "4d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Dust (1/2)",
+      "lootTable": [
+        { "name": "Pinch of Elemental Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Ice (1/2)",
+      "lootTable": [
+        { "name": "Shard of Elemental Ice", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Magma (1/2)",
+      "lootTable": [
+        { "name": "Lump of Elemental Magma", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Mud (1/4)",
+      "lootTable": [
+        { "name": "Smear of Elemental Mud", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Smoke (1/4)",
+      "lootTable": [
+        { "name": "Wisp of Elemental Smoke", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mephit - Steam (1/4)",
+      "lootTable": [
+        { "name": "Puff of Elemental Steam", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Merfolk (1/8)",
+      "lootTable": [
+        { "name": "Merfolk Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Merrow (2)",
+      "lootTable": [
+        { "name": "Tattered Harpoon", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Merrow Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mimic (2)",
+      "lootTable": [
+        { "name": "Mimic Guts (Useless)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mind Flayer (7)",
+      "lootTable": [
+        { "name": "Tattered Breastplate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mind Flayer Tentacle", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Mind Flayer Brain", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mind Flayer Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Mind Flayer Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hive Mind Colony Locator", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "In Lair. Thralls (various races) in the Mind Flayer's command", "diceRoll": "2d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Minotaur (3)",
+      "lootTable": [
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Minotaur Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Minotaur Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Modron - Monodrone (1/8)",
+      "lootTable": [
+        { "name": "Tattered Dagger (Disentigrate)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin (Disentigrate)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Modron - Duodrone (1/4)",
+      "lootTable": [
+        { "name": "Tattered Javelin", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Modron - Tridrone (1/2)",
+      "lootTable": [
+        { "name": "Tattered Javelin", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Modron - Quadrone (1)",
+      "lootTable": [
+        { "name": "Tattered Shortbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cog of Primus", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Modron - Pentadrone (2)",
+      "lootTable": [
+        { "name": "Cogs of Primus", "diceRoll": "2d5", "dropChance": 80 },
+        { "name": "Gyro of Primus", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mummy (3)",
+      "lootTable": [
+        { "name": "Rotting Hand", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Roll of Ceremonial Wrapping", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Heart of the Mummy", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mummy Lord (15)",
+      "lootTable": [
+        { "name": "Rotting Lord Hand", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Rolls of Ceremonial Wrapping", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Set of Ancient Regalia", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ancient Crown", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Mummy Lord Dust", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Eye of the Mummy", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Tongue of the Mummy Lord", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Sacred Mummy Oil", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Heart of the Mummy Lord", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Myconid - Myconid Sprout (0)",
+      "lootTable": [
+        { "name": "Myconid Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Myconid - Spore Servant (-1 from creature) (Choice)",
+      "lootTable": [
+        { "name": "Add creature to list the Myconid is controlling for loot", "diceRoll": "1d1", "dropChance": 100 }
+      ]
+    },
+    {
+      "name": "Myconid - Myconid Adult (1/2)",
+      "lootTable": [
+        { "name": "Myconid Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Myconid - Myconid Sovereign (2)",
+      "lootTable": [
+        { "name": "Myconid Malt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sovereign Malt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Naga - Bone Naga (4)",
+      "lootTable": [
+        { "name": "Naga Fangs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Naga Bones", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Naga - Guardian Naga (10)",
+      "lootTable": [
+        { "name": "Naga Fangs", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Guardian Naga Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Naga Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Naga Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Naga Bones", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Naga - Spirit Naga (8)",
+      "lootTable": [
+        { "name": "Naga Fangs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Spirit Naga Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Naga Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Naga Scales", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Naga Bones", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Nightmare (3)",
+      "lootTable": [
+        { "name": "Nightmare Hoof", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Demon Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mote of Unholy Fire", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Nothic (2)",
+      "lootTable": [
+        { "name": "Nothic Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Nothic Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ogre (2)",
+      "lootTable": [
+        { "name": "Giant's Toe", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Ogre Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Half-Orge (1)",
+      "lootTable": [
+        { "name": "Giant's Toe", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Oni (7)",
+      "lootTable": [
+        { "name": "Glaive", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Item in a Giant's Bag", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Giant's Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Oni Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Oni Tooth", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ooze - Black Pudding (4)",
+      "lootTable": [
+        { "name": "Gobs of Black Goo", "diceRoll": "4d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ooze - Gelatinous Cube (2)",
+      "lootTable": [
+        { "name": "Hunks of Blue Gel", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ooze - Gray Ooze (1/2)",
+      "lootTable": [
+        { "name": "Vial of Grey Mush", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ooze - Ochre Jelly (2)",
+      "lootTable": [
+        { "name": "Dollops of Orange Jelly", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Orc (1/2)",
+      "lootTable": [
+        { "name": "Tattered Hide Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc Tusk", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Orc War Chief (4)",
+      "lootTable": [
+        { "name": "Tattered Chain Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Orc Left Eye of Fury", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc War Chief's Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc Map of Conquest", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Orc Eye of Gruumsh (2)",
+      "lootTable": [
+        { "name": "Tattered Ring Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Orc Left Eye of Fury", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Heart of Gruumsh", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Orog (2)",
+      "lootTable": [
+        { "name": "Tattered Plate Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Javelin", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Orc Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Orog Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Orc Map of Conquest", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Otyugh (5)",
+      "lootTable": [
+        { "name": "Otyugh Tentacles", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Otyugh Eyestalk", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Otyugh Stomach", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Otyugh Tooth", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Owlbear (3)",
+      "lootTable": [
+        { "name": "Owlbear Feather", "diceRoll": "1d8", "dropChance": 80 },
+        { "name": "Owlbear Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Owlbear Claw", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Pegasus (2)",
+      "lootTable": [
+        { "name": "Pegasus Hooves", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Pegasus Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Peryton (2)",
+      "lootTable": [
+        { "name": "Peryton Antler", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Peryton Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Piercer (1/2)",
+      "lootTable": [
+        { "name": "Piercer Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Pixie (1/2)",
+      "lootTable": [
+        { "name": "Pinch of Pixie Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Pseudodragon (1/4)",
+      "lootTable": [
+        { "name": "Vial Pseudodragon Venom", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Purple Worm (15)",
+      "lootTable": [
+        { "name": "Purple Worm Teeth", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Purple Worm Scales", "diceRoll": "6d12", "dropChance": 80 },
+        { "name": "Vials of Purple Worm Poison", "diceRoll": "2d3", "dropChance": 80 },
+        { "name": "Purple Worm Stomach Lining", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Quaggoth (2)",
+      "lootTable": [
+        { "name": "Quaggoth Claw", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Quaggoth Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Rakshasa (13)",
+      "lootTable": [
+        { "name": "Vial of Hellish Ichor", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Rakshasa Fangs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Rakshasa Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Rakshasa Pelt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Rakshasa Hand", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Rakshasa Claws", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Rakshasa Tongue", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tome of Vengeance", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Fine Clothing", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Remorhaz (11)",
+      "lootTable": [
+        { "name": "Remorhaz Legs", "diceRoll": "6d10", "dropChance": 80 },
+        { "name": "Adult Remorhaz Heat Gland", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Adult Remorhaz Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Remorhaz Antennae", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Remorhaz Stomach", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Young Remorhaz (5)",
+      "lootTable": [
+        { "name": "Remorhaz Legs", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Young Remorhaz Heat Gland", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Young Remorhaz Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Remorhaz Antennae.", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Revenant (5)",
+      "lootTable": [
+        { "name": "Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Revenant Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Revenant Eye of Vengeance", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Revenant Eye of Hunting", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hunks of Revenant Flesh", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Roc (11)",
+      "lootTable": [
+        { "name": "Roc Beak", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Roc Talons", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Roc Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Roc Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Roc Feathers", "diceRoll": "5d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Roper (5)",
+      "lootTable": [
+        { "name": "Roper Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Roper Tendril", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Roper Tooth", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Roper Eye", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Rust Monster (1/2)",
+      "lootTable": [
+        { "name": "Rust Monster Antennae", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sahuagin (1/2)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sahuagin Fin", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sahuagin Priestess (2)",
+      "lootTable": [
+        { "name": "Sahuagin Fin", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sahuagin Fish Maw of Sekolah", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sahuagin Baron (5)",
+      "lootTable": [
+        { "name": "Tattered Breastplate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Trident", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sahuagin Fin", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Hand of a Sahuagin Baron", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Sahuagin Baron Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sahuagin Baron Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Salamander (5)",
+      "lootTable": [
+        { "name": "Heated Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Salamander Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Fire Snake Eggs", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Motes of Elemental Fire", "diceRoll": "2d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Fire Snake (1)",
+      "lootTable": [
+        { "name": "Mote of Elemental Fire", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Satyr (1/2)",
+      "lootTable": [
+        { "name": "Satyr's Horn", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Scarecrow (1)",
+      "lootTable": [
+        { "name": "Hag's Soul Stone", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Shadow (1/2)",
+      "lootTable": [
+        { "name": "Wisp of Shadow", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Shambling Mound (5)",
+      "lootTable": [
+        { "name": "Shambling Mound Root-Stem", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Shambling Mound Vines", "diceRoll": "4d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Shield Guardian (7)",
+      "lootTable": [
+        { "name": "Shield Guardian Helm", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Shield Guardian Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Shield Guardian Gauntlets", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Rune of Rebuilding", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spell Gem", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Shield Guardian Control Amulet", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Skeletal - Skeleton (1/4)",
+      "lootTable": [
+        { "name": "Tattered Shortsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shortbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Desecrated Skull", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Skeletal - Minotaur Skeleton (2)",
+      "lootTable": [
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Minotaur Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Desecrated Minotaur Skull", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Skeletal - Warhorse Skeleton (1/2)",
+      "lootTable": [
+        { "name": "Desecrated Horse Skull", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Slaadi - Tadpole (1/8)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Slaadi - Red Slaadi (5)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Slaad Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Red Slaad Claw", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Control Gem", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Slaadi - Blue Slaadi (7)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Slaad Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Slaad Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Control Gem", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Slaadi - Green Slaadi (8)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Slaad Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Slaad Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Control Gem", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hunk of Slaad Brain Matter", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Slaad Chaos Staff", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Green Slaad Chaos Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Slaadi - Gray Slaadi (9)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Slaad Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Slaad Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Control Gem", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hunk of Slaad Brain Matter", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Slaad Liver", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Grey Slaad Chaos Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Death Slaadi (10)",
+      "lootTable": [
+        { "name": "Slaad Egg", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Slaad Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Slaad Claw", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Control Gem", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hunk of Slaad Brain Matter", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Slaad Liver", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Grey Slaad Chaos Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Death Slaad Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Specter (1)",
+      "lootTable": [
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sphinx - Androsphinx (17)",
+      "lootTable": [
+        { "name": "Sphinx Feathers", "diceRoll": "6d4", "dropChance": 80 },
+        { "name": "Mane of the Sphinx", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Heart of the Androsphinx", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Eye of the Sphinx", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Claws of the Androsphinx", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Sphinx Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sphinx's Raiment", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Throat of the Sphinx", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sphinx Pelt", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sphinx - Gynosphinx (11)",
+      "lootTable": [
+        { "name": "Sphinx Feathers", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Heart of the Gynosphinx", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Eye of the Sphinx", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Claws of the Gynosphinx", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Sphinx Tail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sphinx's Raiment", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Sphinx Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sprite (1/4)",
+      "lootTable": [
+        { "name": "Pinch of Sprite Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Stirge (1/8)",
+      "lootTable": [
+        { "name": "Stirge Stinger", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Succubus - Incubus (4)",
+      "lootTable": [
+        { "name": "Incubus Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Incubus Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Head of the Incubus", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Incubus Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Succubus - Succubus (4)",
+      "lootTable": [
+        { "name": "Succubus Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Succubus Wing", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Head of the Succubus", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Succubus Claw", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Tarrasque (30)",
+      "lootTable": [
+        { "name": "Heart of the Tarrasque", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Skull of the Tarrasque", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Ribcage of the Tarrasque", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gullet of the Tarrasque", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tail of the Tarrasque", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Tarrasque Stomach Acid", "diceRoll": "4d10", "dropChance": 80 },
+        { "name": "Bones of the Tarrasque", "diceRoll": "4d20", "dropChance": 80 },
+        { "name": "Scales of the Tarrasque", "diceRoll": "4d20", "dropChance": 80 },
+        { "name": "Horns of the Tarrasque", "diceRoll": "2d20", "dropChance": 80 },
+        { "name": "Claws of the Tarrasque", "diceRoll": "2d20", "dropChance": 80 },
+        { "name": "Eye of the Tarrasque", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Teeth of the Tarrasque", "diceRoll": "2d20", "dropChance": 80 },
+        { "name": "Hunks of Tarrasque Meat", "diceRoll": "5d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Thri-Kreen (1)",
+      "lootTable": [
+        { "name": "Vial of Thri-Kreen Poison", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Treant (9)",
+      "lootTable": [
+        { "name": "Branches", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Squirming Root", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Treant Acorns", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Heart of the Forest", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Troglodyte (1/4)",
+      "lootTable": [
+        { "name": "Vial of Troglodyte Blood", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Troll (5)",
+      "lootTable": [
+        { "name": "Chunks of Troll Meat", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Vial of Troll Blood", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Troll Tooth", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Troll Limb (Choice)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Umber Hulk (5)",
+      "lootTable": [
+        { "name": "Umber Hulk Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Umber Hulk Claw", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Umber Hulk Carapace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Umber Hulk Antennae", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Unicorn (5)",
+      "lootTable": [
+        { "name": "Unicorn Horn", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Unicorn Pelt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Unicorn Hoof", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Strands of Hair from a Unicorn's Mane", "diceRoll": "2d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Vampire (13)",
+      "lootTable": [
+        { "name": "Vials of Vampire Dust", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Wisp of Shadow", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Vampire Fang", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vampire Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vampire Heart", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vampire Hand", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vampire Head", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tome of the Vampire", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Vampire Spawn (5)",
+      "lootTable": [
+        { "name": "Vampire Hand", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vampire Fang", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vial of Vampire Dust", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wisp of Shadow", "diceRoll": "2d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Water Weird (3)",
+      "lootTable": [
+        { "name": "Motes of Elemental Water", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Heart of Waves", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Wight (3)",
+      "lootTable": [
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wisp of Shadow", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Wight Hand", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Will-o'-Wisp (2)",
+      "lootTable": [
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wisp Stone", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Wraith (5)",
+      "lootTable": [
+        { "name": "Crown of the Undead", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wisp of Shadow", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Vial of Ectoplasm", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Pinch of Spirit Dust", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Wyvern (6)",
+      "lootTable": [
+        { "name": "Vial of Wyvern Venom", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Wyvern Wing", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Wyvern Tooth", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Wyvern Scale", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Xorn (5)",
+      "lootTable": [
+        { "name": "Mote of Elemental Earth", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Heart of Stone", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Xorn Eye", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Gem (50 GP)", "diceRoll": "2d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yeti (3)",
+      "lootTable": [
+        { "name": "Yeti Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Yeti Horn", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Yeti Eye", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Abominable Yeti (9)",
+      "lootTable": [
+        { "name": "Yeti Hide", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Yeti Horns", "diceRoll": "3d2", "dropChance": 80 },
+        { "name": "Yeti Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Yeti Throat", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yuan-Ti - Yuan-Ti Abomination (7)",
+      "lootTable": [
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Snake Skin", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Fang of the Yuan-Ti", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Heart of the Reptile God", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Yuan-Ti Blood", "diceRoll": "1d6", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yuan-Ti - Yuan-Ti Malison (3)",
+      "lootTable": [
+        { "name": "Tattered Scimitar (Type 1 and 3)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow (Type 1 and 3)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Snake Skin", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Fang of the Yuan-Ti", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Yuan-Ti Blood", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yuan-Ti - Yuan-Ti Pureblood (1)",
+      "lootTable": [
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Yuan-Ti Blood", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yugoloth - Arcanaloth (12)",
+      "lootTable": [
+        { "name": "Vials of Black Ichor", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Arcanaloth Hide (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Arcanaloth Eye (Disintegrated)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Arcanaloth Claw (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Heart of the Yugoloth (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Fine Robe (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellbook (Choice)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yugoloth - Mezzoloth (5)",
+      "lootTable": [
+        { "name": "Magic Trident (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Black Ichor", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Mezzoloth Shell (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Mezzoloth Pincer (Disintegrated)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Heart of the Yugoloth (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yugoloth - Nycaloth (9)",
+      "lootTable": [
+        { "name": "Magic Greataxe (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Black Ichor", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Nycaloth Wing (Disintegrated)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Nycaloth Claw (Disintegrated)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Nycaloth Horn (Disintegrated)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Heart of the Yugoloth (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Yugoloth - Ultroloth (13)",
+      "lootTable": [
+        { "name": "Magic Longsword (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vials of Black Ichor", "diceRoll": "5d4", "dropChance": 80 },
+        { "name": "Ultroloth Eye (Disintegrated)", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Ultroloth Claws (Disintegrated)", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Heart of the Yugoloth (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Yugoloth Commander's Robes (Disintegrated)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Zombie (1/4)",
+      "lootTable": [
+        { "name": "Zombified Hand", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ogre Zombie (2)",
+      "lootTable": [
+        { "name": "Tattered Morningstar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Item in a Giant's Bag", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Zombified Hand", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Beholder Zombie (5)",
+      "lootTable": [
+        { "name": "Small Beholder Eye", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Vial of Beholder Slime", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Zombified Beholder Eyestalk", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Ape (1/2)",
+      "lootTable": [
+        { "name": "Ape Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Awakened Shrub (0)",
+      "lootTable": [
+        { "name": "Twig", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Awakened Tree (2)",
+      "lootTable": [
+        { "name": "Branch", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Squirming Root", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Axe Beak (1/4)",
+      "lootTable": [
+        { "name": "Beak", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Baboon (0)",
+      "lootTable": [
+        { "name": "Baboon Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Badger (0)",
+      "lootTable": [
+        { "name": "Badger Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bat (0)",
+      "lootTable": [
+        { "name": "Bat Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Black Bear (1/2)",
+      "lootTable": [
+        { "name": "Black Bear Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Blink Dog (1/4)",
+      "lootTable": [
+        { "name": "Blink Dog Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Blood Hawk (1/8)",
+      "lootTable": [
+        { "name": "Blood Hawk Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Boar (1/4)",
+      "lootTable": [
+        { "name": "Boar Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Brown Bear (1)",
+      "lootTable": [
+        { "name": "Brown Bear Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Camel (1/8)",
+      "lootTable": [
+        { "name": "Camel Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cat (0)",
+      "lootTable": [
+        { "name": "Cat pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Constrictor Snake (1/4)",
+      "lootTable": [
+        { "name": "Snake Skin", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Crab (0)",
+      "lootTable": [
+        { "name": "Crab Claw", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Crocodile (1/2)",
+      "lootTable": [
+        { "name": "Crocodile Tooth", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Death Dog (1)",
+      "lootTable": [
+        { "name": "Death Dog Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Deer (0)",
+      "lootTable": [
+        { "name": "Deer Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Dire Wolf (1)",
+      "lootTable": [
+        { "name": "Dire Wolf Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Draft Horse (1/4)",
+      "lootTable": [
+        { "name": "Hoof", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Eagle (0)",
+      "lootTable": [
+        { "name": "Eagle Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elephant (4)",
+      "lootTable": [
+        { "name": "Elephant Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Elephant Toes", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Tusk", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Elk (1/4)",
+      "lootTable": [
+        { "name": "Antler", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Flying Snake (1/8)",
+      "lootTable": [
+        { "name": "Snake Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Frog (0)",
+      "lootTable": [
+        { "name": "Frog Leg", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Ape (7)",
+      "lootTable": [
+        { "name": "Giant Ape Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant Ape Fingers", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Giant Ape Skull", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant Ape Fang", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Badger (1/4)",
+      "lootTable": [
+        { "name": "Giant Badger Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Bat (1/4)",
+      "lootTable": [
+        { "name": "Giant Bat Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Boar (2)",
+      "lootTable": [
+        { "name": "Giant Boar Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Centipede (1/4)",
+      "lootTable": [
+        { "name": "Centipede Leg", "diceRoll": "1d100", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Constrictor Snake (2)",
+      "lootTable": [
+        { "name": "Snake Skin", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Crab (1/8)",
+      "lootTable": [
+        { "name": "Giant Crab Claw", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Crocodile (5)",
+      "lootTable": [
+        { "name": "Crocodile Teeth", "diceRoll": "4d10", "dropChance": 80 },
+        { "name": "Crocodile Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Eagle (1)",
+      "lootTable": [
+        { "name": "Giant Eagle Feather", "diceRoll": "1d10", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Elk (2)",
+      "lootTable": [
+        { "name": "Giant Elk Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Giant Antler", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Fire Beetle",
+      "lootTable": [
+        { "name": "Vial of Fire Beetle", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Frog (1/4)",
+      "lootTable": [
+        { "name": "Giant Frog Leg", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Hyena (1)",
+      "lootTable": [
+        { "name": "Giant Hyena Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Lizard (1/4)",
+      "lootTable": [
+        { "name": "Giant Lizard Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Octopus (1)",
+      "lootTable": [
+        { "name": "Giant Tentacle", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Owl (1/4)",
+      "lootTable": [
+        { "name": "Giant Owl Feather", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Poisonous Snake (1/4)",
+      "lootTable": [
+        { "name": "Poisonous Snake Skin", "diceRoll": "1d6", "dropChance": 80 },
+        { "name": "Vial of Serpent Venom", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Rat (1/8)",
+      "lootTable": [
+        { "name": "Giant Rat Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Scorpion (3)",
+      "lootTable": [
+        { "name": "Giant Scorpion Claw", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Giant Scorpion Stinger", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Sea Horse (1/2)",
+      "lootTable": [
+        { "name": "Giant Sea Horse Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Shark (5)",
+      "lootTable": [
+        { "name": "Shark Teeth", "diceRoll": "3d10", "dropChance": 80 },
+        { "name": "Shark Fin", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Spider (1)",
+      "lootTable": [
+        { "name": "Web Sac", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Toad (1)",
+      "lootTable": [
+        { "name": "Giant Toad Leg", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Vulture (1)",
+      "lootTable": [
+        { "name": "Giant Vulture Feather", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Wasp (1/2)",
+      "lootTable": [
+        { "name": "Giant Wasp Stinger", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Weasel (1/8)",
+      "lootTable": [
+        { "name": "Giant Weasel Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Giant Wolf Spider (1/4)",
+      "lootTable": [
+        { "name": "Giant Spider Leg", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Goat (0)",
+      "lootTable": [
+        { "name": "Goat Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hawk (0)",
+      "lootTable": [
+        { "name": "Hawk Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hunter Shark (2)",
+      "lootTable": [
+        { "name": "Shark Tooth", "diceRoll": "1d10", "dropChance": 80 },
+        { "name": "Shark Fin", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Hyena (0)",
+      "lootTable": [
+        { "name": "Hyena Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Jackal (0)",
+      "lootTable": [
+        { "name": "Jackal Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Killer Whale (3)",
+      "lootTable": [
+        { "name": "Killer Whale Tooth", "diceRoll": "2d10", "dropChance": 80 },
+        { "name": "Killer Whale Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lion (1)",
+      "lootTable": [
+        { "name": "Lion Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Lizard (0)",
+      "lootTable": [
+        { "name": "Lizard Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mammoth (6)",
+      "lootTable": [
+        { "name": "Mammoth Hide", "diceRoll": "2d2", "dropChance": 80 },
+        { "name": "Mammoth Tusk", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Mammoth Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mastiff (1/8)",
+      "lootTable": [
+        { "name": "Mastiff Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mule (1/8)",
+      "lootTable": [
+        { "name": "Mule Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Octopus (0)",
+      "lootTable": [
+        { "name": "Tentacle", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Owl (0)",
+      "lootTable": [
+        { "name": "Owl feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Panther (1/4)",
+      "lootTable": [
+        { "name": "Panther Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Phase Spider (3)",
+      "lootTable": [
+        { "name": "Phase Spider Eye", "diceRoll": "1d8", "dropChance": 80 },
+        { "name": "Phase Spider Leg", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Poisonous Snake (1/8)",
+      "lootTable": [
+        { "name": "Poisonous Snake Skin", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Polar Bear (2)",
+      "lootTable": [
+        { "name": "Polar Bear Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Polar Bear Tooth", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Pony (1/8)",
+      "lootTable": [
+        { "name": "Pony Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Quipper (0)",
+      "lootTable": [
+        { "name": "Quipper Jaw", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Rat (0)",
+      "lootTable": [
+        { "name": "Rat Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Raven (0)",
+      "lootTable": [
+        { "name": "Raven Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Reef Shark (1/2)",
+      "lootTable": [
+        { "name": "Shark Tooth", "diceRoll": "1d8", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Rhinoceros (2)",
+      "lootTable": [
+        { "name": "Rhino Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Rhino Horn", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Riding Horse (1/4)",
+      "lootTable": [
+        { "name": "Horse Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Saber-Toothed Tiger (2)",
+      "lootTable": [
+        { "name": "Saber-Toothed Tiger Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Saber-Toothed Tiger Fang", "diceRoll": "1d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Scorpion (0)",
+      "lootTable": [
+        { "name": "Scorpion Carapace", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Sea Horse (0)",
+      "lootTable": [
+        { "name": "Sea Horse Tail", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Spider (0)",
+      "lootTable": [
+        { "name": "Spider Carapace", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Bats (1/4)",
+      "lootTable": [
+        { "name": "Bat Pelt", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Insects (1/2)",
+      "lootTable": [
+        { "name": "(Based on Insect Choice, add Insect from other selection)", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Poisonous Snakes (2)",
+      "lootTable": [
+        { "name": "Poisonous Snake Skin", "diceRoll": "2d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Quippers (1)",
+      "lootTable": [
+        { "name": "Quipper Jaw", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Rats (1/4)",
+      "lootTable": [
+        { "name": "Rat Pelt", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Swarm of Ravens (1/4)",
+      "lootTable": [
+        { "name": "Raven Feather", "diceRoll": "1d20", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Tiger (1)",
+      "lootTable": [
+        { "name": "Tiger Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Vulture (0)",
+      "lootTable": [
+        { "name": "Vulture Feather", "diceRoll": "1d4", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Warhorse (1/2)",
+      "lootTable": [
+        { "name": "Horse Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Weasel (0)",
+      "lootTable": [
+        { "name": "Weasel Pelt", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Winter Wolf (3)",
+      "lootTable": [
+        { "name": "Winter Wolf Hide", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Winter Wolf Tooth", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Winter Wolf Heart", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Wolf (1/4)",
+      "lootTable": [
+        { "name": "Wolf Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Worg (1/2)",
+      "lootTable": [
+        { "name": "Worg Hide", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Acolyte (1/4)",
+      "lootTable": [
+        { "name": "Tattered Club", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Holy Book of the Acolyte's order", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Archmage (12)",
+      "lootTable": [
+        { "name": "Tattered Dagger", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting component pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Healing Potions", "diceRoll": "2d4", "dropChance": 80 },
+        { "name": "Arcane Focus", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Book (useless)", "diceRoll": "3d4", "dropChance": 80 },
+        { "name": "Spellbook (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Skill Book (Choice)", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Flask of Alchemist's Fire", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Map to a nearby Archmage tower", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Assassin (8)",
+      "lootTable": [
+        { "name": "Set of Tattered Studded Leather", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shortsword", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Tattered Light Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Thieves' Tools", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Vial of Standard Poison", "diceRoll": "1d3", "dropChance": 80 },
+        { "name": "Briefing", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Hit List", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Contact list", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Keepsake", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bandit (1/8)",
+      "lootTable": [
+        { "name": "Set of Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Light Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Bandit Code", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Bandit Captain (2)",
+      "lootTable": [
+        { "name": "Set of Tattered Studded Leather", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Dagger", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Bandit Code", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Captain's Cloak", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Berserker (2)",
+      "lootTable": [
+        { "name": "Set of Tattered Hide Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Greataxe", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tribal Token", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Pouch of Incense", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Commoner (0)",
+      "lootTable": [
+        { "name": "Set of Tattered Clothing", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Club", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cultist (1/8)",
+      "lootTable": [
+        { "name": "Set of Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Scimitar", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cultist's Book", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Cult Fanatic (2)",
+      "lootTable": [
+        { "name": "Set of Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Dagger", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Cultist's Book", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Druid (2)",
+      "lootTable": [
+        { "name": "Tattered Quarterstaff", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tribal Token", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Gladiator (5)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Tattered Studded Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Warrior's Marks", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Shield of Glory", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Admirer's Tokens", "diceRoll": "2d2", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Guard (1/8)",
+      "lootTable": [
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Chain Shirt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shield", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Coil of rope", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Knight (3)",
+      "lootTable": [
+        { "name": "Set of Tattered Plate Mail", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Greatsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Heavy Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Warrior's Marks", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Lord's Crest", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Admirer's token", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Mage (6)",
+      "lootTable": [
+        { "name": "Tattered Dagger", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Healing Potion", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Arcane Focus", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Book", "diceRoll": "1d4", "dropChance": 80 },
+        { "name": "Spellbook (Choice)", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Flask of Alchemist's Fire", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Noble (1/8)",
+      "lootTable": [
+        { "name": "Tattered Breastplate", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Rapier", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Insignia of Nobility (Choice) (Tracable)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Priest (2)",
+      "lootTable": [
+        { "name": "Tattered Chain Shirt", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Mace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Holy Book of the Priest's order", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Spellcasting Component Pouch", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Scout (1/2)",
+      "lootTable": [
+        { "name": "Set of Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shortsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Briefing", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Spy (1)",
+      "lootTable": [
+        { "name": "Tattered Shortsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Hand Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Set of Thieves' Tools", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Briefing", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Thug (1/2)",
+      "lootTable": [
+        { "name": "Set of Tattered Leather Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Mace", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Heavy Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Keepsake (Choice)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Tribal Warrior (1/8)",
+      "lootTable": [
+        { "name": "Set of Tattered Hide Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Spear", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    },
+    {
+      "name": "Veteran (3)",
+      "lootTable": [
+        { "name": "Set of Tattered Splint Armor", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Longsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Shortsword", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Tattered Heavy Crossbow", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Warrior's Mark", "diceRoll": "1d2", "dropChance": 80 },
+        { "name": "Healer's Kit", "diceRoll": "1d1", "dropChance": 80 },
+        { "name": "Keepsake (Choice)", "diceRoll": "1d1", "dropChance": 80 }
+      ]
+    }
+  ]
