@@ -1,0 +1,1374 @@
+[
+    {
+      "name": "Cyclops Eye",
+      "index":"Abjuration",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "abjurationCarefulSkill": "Can be carefully crafted by a spellcaster into an amulet that requires attunement. ", "percievedValue": "300 GP"},
+        { "abjurationCarefulAdditionalDetail": "While attuned to the amulet, a creature can cast Protection from Evil and Good once", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Shambling Mound Root-Stem",
+      "index":"Abjuration",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "abjurationMasterSkill": "Can be mastercrafted by a spellcaster into an amulet of lightning absorption, which requires attunement.", "percievedValue": "300 GP"},
+        { "abjurationMasterAdditionalDetail": "An attuned creature is immune to lightning damage, and if it would take lightning damage, it instead regains hit points equal to the damage that would have been dealt.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"},
+        {"attribute":"Cursed"}
+      ]
+    },
+    {
+      "name": "Heart of the Tarrasque",
+      "index":"Abjuration",
+      "description": [
+        { "unskilled": "Difficult to transport, as big as a large creature. No immediate use.", "percievedValue": "300 GP"},
+        { "abjurationMasterSkill": "Can be mastercrafted by a spellcaster into a Heart of Sorrow, which requires attunement and takes up two attunement slots.", "percievedValue": "300 GP"},
+        { "abjurationMasterAdditionalDetail": "The Heart gains AC 15 and 50 hit points. If an attuned creature would take damage, and is on the same plane of existence as the Heart, it can choose to have the Heart of Sorrow take that damage instead. As long as the Heart of Sorrow has at least 1 hit point, it regains all lost hit points at dawn. The Heart shatters if it is reduced to 0 hit points. Can be mastercrafted (alchemist’s supplies) into 1d10 Potions of Tarrasque Strength (for 1 hour, your Strength score becomes 30. It has no effect if your Strength score is already 30 or higher).", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Vampire Heart",
+      "index":"Abjuration",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "abjurationMasterSkill": "Can be mastercrafted by a spellcaster into a suit of medium or heavy armor that requires attunement.", "percievedValue": "300 GP"},
+        { "abjurationMasterAdditionalDetail": "This item is destroyed if the Vampire is killed while staked through the heart. While wearing the armor, an attuned creature regains 20 hit points at the start of its turn, as long as it has at least 1 hit point. The heart is exposed on the armor, and if it is in direct sunlight or the attuned creature takes radiant damage, this trait doesn’t function at the start of the attuned creature’s next turn. If a creature attacks the heart and pierces it with a wooden stake (AC 20 to hit), the armor loses this property and becomes mundane.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Heart of the Yugoloth",
+      "index":"Abjuration",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "abjurationMasterSkill": "Can be mastercrafted by a spellcaster into an Amulet of Magic Resistance, which requires attunement.", "percievedValue": "300 GP"},
+        { "abjurationMasterAdditionalDetail": "An attuned creature has advantage on saving throws against spells and other magical effects.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Aarakocra Feathers",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into incense to burn in a Censer of Controlling Air Elementals.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Allows one additional use of the item per day. Consumed upon use.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""} 
+      ]
+    },
+    {
+      "name": "Vial of Ectoplasm",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Invisibility or an Oil of Etherealness.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Basilisk Stomach",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismMasterSkilled": "Can be mastercrafted into a Stone Salve", "percievedValue": "300 GP"},
+        { "herbalismMasterAdditionalDetail": "Ends the petrified condition on a creature it is applied to.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Death Tyrant Skull",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismCarefulSkilled": "Can be carefully crafted into a Potion that acts as a Raise Dead spell, except that the target must currently be undead for the spell to take effect.", "percievedValue": "300 GP"},
+        { "herbalismCarefulAdditionalDetail": "This potion returns the creature to life as per the spell, despite the fact that the creature is undead.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Strong Bugbear Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a potion of Hrugguk.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Grants the user advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep for 1d4 hours.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Cambion Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Fire Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Centaur Hooves",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Healing.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Chimera Claws",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Fire Breath.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Cloaker Blood",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Stealth, which grants advantage on Dexterity (Stealth) checks for 1 hour.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Cambion Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Fire Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Cloaker Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Darkvision (Darkvision to 60 ft. for 1 hour)", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Cambion Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismCarefulSkilled": "Can be carefully crafted into a Potion of Hill Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismCarefulAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Demilich Teeth",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted in one of the following potions: Potion of Necrotic Resistance, Potion of Poison Resistance, Potion of Psychic Resistance, Potion of Magic Resistance, Potion of Evasion (for 1 hour, if subjected to a Dexterity saving throw to take half damage, take half damage on a failed save and no damage on a success), or Potion of Truesight (grants truesight out to 120 feet for 1 hour).", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "When the Demilich reforms, all un-crafted teeth return to the Demilich. If the Phylactery is destroyed, these items crumble into useless dust.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Vial of Foul Ichor",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a potion of poison immunity.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "When consumed, grants immunity to poison damage and the poisoned condition for 1 hour, and heals any poisons currently affecting the creature.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Glabrezu Claws",
+      "index":["Herbalism Kit","Alchemist's Supplies/Poisoner's Kit"],
+      "description": [
+        { "unskilled": "Acts as a handaxe.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Flight or a Poison of Confusion. ", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "They look identical, and it is nearly impossible to discern which one was created without a DC 30 Intelligence (Religion) check. Potion of Flight Casts Flight Spell, Poison of Confusion Casts Confusion Spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Goristro Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a club.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Magic Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "when consumed, a creature has advantage on saving throws made against spells and magic effects for 1 hour.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Cambion Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as an arcane focus for warlocks of the Fiend pact.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "10 of these can be mastercrafted into a Potion of Magic Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "When consumed, a creature has advantage on saving throws made against spells and magic effects for 1 hour.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Cambion Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a whip", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Magic Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "When consumed, a creature has advantage on saving throws made against spells and magic effects for 1 hour.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Marilith Head",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Once per day, as an action, the head can teleport its holder, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it's holder can see.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Truesight", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants truesight out to 120 feet for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Vrock Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a potion of Superior Darkvision", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants darkvision out to 120 feet", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Demon Spider Legs",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When held, the holder ignores movement restrictions caused by webbing.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "5 of these can be mastercrafted into a Potion of Magic Resistance", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "when consumed, a creature has advantage on saving throws made against spells and magic effects for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Erinyes Feathers",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": " 20 of them can be mastercrafted into a Potion of Truesight", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants truesight out to 120 feet for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Imp Wings",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Invisibility.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Doppelganger Brain",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted (alchemist’s supplies) into a Potion of Mind Reading", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Motes of Shadow",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Shadow", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Grants resistance to damage that isn’t force, fire, or radiant for one hour, as long as the user is in dim light or darkness. Additionally, any damage type, resistance, vulnerability, or immunity granted by an item from the dragon is changed to Necrotic", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Black Dragon Tail",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a magical whip +1.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Acid Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants immunity to acid damage for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Blue Dragon Tail",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a magical whip +1.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Lightning Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants immunity to lightning damage for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Green Dragon Tail",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a magical whip +1.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Poison Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants immunity to poison damage for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Red Dragon Tail",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a magical whip +1.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Fire Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants immunity to fire damage for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "White Dragon Tail",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a magical whip +1.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Cold Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants immunity to cold damage for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ancient Brass Dragon Sleep Salve",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When applied to the skin of a creature, the creature must make a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ancient Bronze Dragon Repulsion Salve",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can be thrown at a creature as an improvised weapon. On a hit, the vial breaks with a loud bang audible within 300 feet and the creature must make a DC 23 Strength saving throw or be pushed 60 feet away from the attacker.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ancient Copper Dragon Slowing Salve",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When applied to the skin of a creature, the creature must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. ", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ancient Gold Dragon Weakening Salve",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When applied to the skin of a creature, the creature must make a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ancient Silver Dragon Paralyzing Salve",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When applied to the skin of a creature, that creature must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Drider Legs",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a Flail.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Each can be crafted into a Potion of Climbing.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Drider Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted (alchemist’s supplies) into a Potion of Superior Darkvision", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Darkvision to 120 ft. for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Dryad Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When held, the holder can cast Druidcraft at will. If consumed, acts as a single berry from the Goodberry spell.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Animal Friendship.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Duergar Head",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Marks the holder as an enemy of the Duergar.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Growth", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "mastercrafted into a Potion of Invisibility.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"},
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Eye of the Empyrean",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a diamond worth 1,000 gp if used as the material component for a spell. Using it as a material component to cast Chromatic Orb allows the caster to choose Force damage or Radiant damage as the spell’s damage type.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Truesight", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "truesight out to 120 feet for 1 hour when consumed", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Ettin Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Hill giant strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Motes of Green Flame",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Fire Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Fomorian Stomach Lining",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Fungal Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "For 1d4 hours, the user is immune to the poisoned condition if it would be caused by a fungus or fungal creature", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Cloud Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Cloud Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Fire Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Fire Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Frost Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Frost Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Hill Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Hill Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Stone Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Stone Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Storm Giant Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Storm Giant Strength.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Gorgon Stomach",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Stone Salve.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Ends the petrified condition on a creature it is applied to.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Grell Beak",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a sickle.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Lightning Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Hell Hound Teeth",
+      "index": ["Herbalism Kit","Jeweler's ToolsJewler"],
+      "description": [
+        { "unskilled": "20 teeth act as a bag of caltrops.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "4 of these can be carefully crafted into a Potion of Fire Breath.", "percievedValue": "300 GP"},
+        { "jewelerSkilled": "Can be carefully crafted into dice.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Strong Hobgoblin Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a potion of Nomog-Geaya.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "For 1 minute, the user gains the ability to deal an extra 10 (3d6) damage to a creature they hit with a weapon attack if the creature is within 5 feet of an ally of the user.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Kraken Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Requires attunement. An attuned creature gains Truesight out to 60 feet.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Ultimate Resilience, which grants advantage on all saving throws for 8 hours.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Lizardfolk Heart of Semuanya",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can cast Conjure Animals (reptiles only) as a ritual spell. This consumes the heart.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Polymorph that can only change the drinker into a Crocodile.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Allows the drinker to change shape as though they had cast the Polymorph spell, locked to Crocodile", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Minotaur Horns",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Recall", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants the drinker the ability to perfectly recall any path they have traveled for up to 8 hours. The drinker automatically succeeds on saving throws made to escape the Maze spell and similar areas.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Heart of the Mummy",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can be consumed, or used as the material component of a Legend Lore spell, to learn the details of the mummy's life and compulsions. ", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Necrotic Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Naga Bones",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can be used as the material component to an Augury spell.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Poison Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Nothic Eye",
+      "index":["Herbalism Kit","Divination"],
+      "description": [
+        { "unskilled": "As an action, a creature holding the eye can force another creature within 30 feet to make a DC 12 Constitution saving throw. On a failure, the target takes 3d6 necrotic damage.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Truesight, which confers Truesight out to 120 feet.", "percievedValue": "300 GP"},
+        { "divinationSkilled": "Can be mastercrafted by a spellcaster into a staff that requires attunement. An attuned creature can use its action to force a contest between its Wisdom (Insight) and a creature's Charisma (Deception) within 30 feet. If the attuned creature wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"},
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Oni Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Requires attunement. A creature attuned to the eye can speak Giant, and regains 1 hit point at the start of its turn if it has at least 1 hit point.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Polymorph", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "allows the drinker to change shape as though they had cast the Polymorph spell", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Dollop of Orange Jelly (Ochre Jelly)",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can be used as a ranged weapon with a range of 20/60 by using a non-organic mechanism. On a hit, the Orange Jelly sticks to the target for 2 rounds, dealing 7 (2d6) acid damage a round.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a potion of lightning resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Orc Left Eye of Fury",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Gruumsh's Fury", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants an extra 1d8 damage to all melee attacks for one hour, ends early if the user doesn't take an attack action against a creature for more than 5 consecutive rounds", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Orc War Chief's Head",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "When held, grants advantage on Charisma (Intimidation) checks made against Orcs. ", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Aggression", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Grants the user the ability to dash towards a hostile creature as a bonus action on their turn, lasts one hour.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Adult Remorhaz Heat Gland",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Difficult to handle, deals 10 (3d6) fire damage per round to any organic or metal material in contact with it. ", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a potion that grants immunity to cold damage for 1 hour.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Young Remorhaz Heat Gland",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Difficult to handle, deals 7 (2d6) fire damage per round to any organic or metal material in contact with it.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a potion of cold resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Remorhaz Antennae",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted (alchemist’s supplies) into a Potion of Tremorsense", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants Tremorsense to 60 feet for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Roper Eye",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Darkvision", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants darkvision out to 60ft for one hour", "percievedValue": "100 GP"},
+        { "careful": "Can be carefully crafted into a Potion of Spider Climb", "percievedValue": "100 GP"},
+        { "carefulAdditionalDetail": "grants the ability to climb difficult surfaces, including ceilings, without needing to make an ability check", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Sahuagin Fin",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Animal Friendship that only affects creatures with a swim speed.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Sahuagin Baron Heart",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Elven Enmity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants advantage on attack rolls made against elves, and advantage on saving throws made against an effect originating from elves for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Shambling Mound Vines",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a whip.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be crafted into a Potion of Fire Resistance or a Potion of Cold Resistance.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    },
+    {
+      "name": "Eyes of the Sphinx",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Can be consumed as an action. A creature that consumes the eye is under the effects of a Detect Magic spell for 1 hour, no concentration required.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Truesight", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Potion confers truesight out to 120 feet for 1 hour when consumed.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Gullet of the Tarrasque",
+      "index":["Herbalism Kit","Leatherworker's Tools"],
+      "description": [
+        { "unskilled": "Difficult to transport, as big as a medium creature. Acts as a tent that is immune to acid damage. The gullet can be broken down into 10 Hunks of Tarrasque Meat.", "percievedValue": "300 GP"},
+        { "leatherworkSkilled": "Can be mastercrafted into 2d20 leather pouches, backpacks, or bags.", "percievedValue": "300 GP"},
+        { "leatherworkAdditionalDetail": "The bags are immune to acid damage and have resistance to bludgeoning, slashing, and piercing damage from nonmagical weapons.", "percievedValue": "100 GP"},
+        { "herbSkilled": "Can be mastercrafted into 1d10 Potions of Tarrasque Constitution", "percievedValue": "100 GP"},
+        { "herbalismAdditionalDetail": "for 1 hour, your Constitution score becomes 30. It has no effect if your Constitution score is already 30 or higher", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"herbAttribute":"Master"}
+      ]
+    },
+    {
+      "name": "Tarrasque Stomach Acid",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "As an action, can be splashed onto a creature or object within 5 feet, or thrown as an improvised weapon. On a hit, the target takes 56 (16d6) acid damage.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a potion of Acid Immunity", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "for 1 hour, the user is immune to acid damage", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Claws of the Tarrasque",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a greatclub.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Fine Fettle", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "Provides permanent immunity from one of the following conditions: charmed, frightened, paralyzed, poisoned, or blinded.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "Troll Blood",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Vitality.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Umber Hulk Antennae",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a Potion of Tremorsense", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants Tremorsense to 60 feet for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Careful"}
+      ]
+    },
+    {
+      "name": "Unicorn Hooves",
+      "index":["Herbalism Kit","Jeweler's Tools"],
+      "description": [
+        { "unskilled": "Acts as a hammer.", "percievedValue": "300 GP"},
+        { "herbSkilled": "Can be mastercrafted into a Potion of Supreme Healing.", "percievedValue": "300 GP"},
+        { "jewelSkilled": "Can be carefully crafted into 1d6 magical dice.", "percievedValue": "100 GP"},
+        { "jewelAdditionalDetail": "If the dice are rolled as a pair, they will always roll a total of 7.", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"Herbalism":"Master"},
+        {"Jeweler":"Careful"}
+      ]
+    },
+    {
+      "name": "Arcanaloth Eyes",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "No immediate use", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be mastercrafted into a Potion of Truesight", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "grants truesight out to 60 feet for 1 hour", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":"Master"}
+      ]
+    },
+    {
+      "name": "",
+      "index":"Herbalism Kit",
+      "description": [
+        { "unskilled": "Acts as a club.", "percievedValue": "300 GP"},
+        { "herbalismSkilled": "Can be carefully crafted into a potion of healing.", "percievedValue": "300 GP"},
+        { "herbalismAdditionalDetail": "", "percievedValue": "100 GP"}
+      ],
+      "Value": [
+        {"minValue":"10 CP"},
+        {"maxValue":"1000 PP"}
+      ],
+      "quirks": [
+        {"attribute":""}
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
